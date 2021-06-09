@@ -92,33 +92,25 @@
       "written" : "PlayKids-XD is an open-world social game in which you can create an avatar, decorate a home, interact with other players, and visit their houses. Start a new game with PK-XD and the first thing you'll do is create your custom character. This game has a colorful, almost otherworldly aesthetic, and has loads of character creation options.  Once you create a character, you can start decorating your house, which has three rooms and a hallway.  Many of the basic items for your house are free, so you can create a great home without spending much of the in-game currency. That being said, as you play you can earn money and buy furniture, clothes, accessories and other unique items to create a complete custom character and home, which you can edit at any point during the game.  But there's more than just your home in PK-XD, there's an entire online world to explore.  Visit other player's homes, chat with them, stroll around the city, buy food, go to parties, and much, much more. Much like games such as Hotel Habbo, most of PK-XD gameplay revolves around customization and interaction with other players."
     },
     {
-      "id" : 6,
+
+       "id" : 6,
       "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Pk-XD-Explore-Universe-/main/New%20Project%20(3).png",
       "state" : "free",
-      "title" : "HOW TO GET GEMS AND POINTS ",
+      "title" : "CREATIVE YOUR CAAACTER",
       "description" : "",
-      "written" : "
-      "written" : "In addition to exploring the world and taking up challenges, you can try different activities such as relaxing in the floats, having ice cream, jumping with the power up, dancing different moves and styles, and having lots of fun with your friends and neighbors! Socialize with us now!  New features of the game now.  ADOPT A PET The Adoption Fair is in town!  Go check it out next to the area that's (still!) under construction!  PET PODS There's a Pet inside of each Pet Pod, you just need to wait until it's ready to open. Who knows what will come out?!"
-
-    },
+      "written" : "Choose your favorite ones and create your identity in the world of PlayKids XD! Explore a new concept of communication with lots of ways of expressing yourself! Take on challenges to earn coins and customize your avatar and home. - Decorate your home any way you like with many amazing items: Puff cloud, dance mat, lava lamp, wallpapers, fluffy rug, gamer chair, pictures, fantastic fireplace, heart -shaped balloons, kitchen items, bathroom items, and so much more! - Use your imagination to combine all items available and come up with creative avatars: be a zombie, a unicorn, a witch, or even a dragon! The options include monster slippers, futuristic boots, incredible wings, ninja swords, a cat mask, shark gloves, lobster gloves, golden hair, fun backpacks, incredible sunglasses, cool clothes, and much more."
+  
+      },
     {
+      
       "id" : 7,
-      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Pk-XD-Explore-Universe-/main/New%20Project%20(1).png",
-      "state" : "vip",
-      "title" : "Sepuel",
+      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Pk-XD-Explore-Universe-/main/New%20Project%20(3).png",
+      "state" : "free",
+      "title" : "CREATIVE YOUR CAAACTER",
       "description" : "",
-      "written" : "In addition to exploring the world and taking up challenges, you can try different activities such as relaxing in the floats, having ice cream, jumping with the power up, dancing different moves and styles, and having lots of fun with your friends and neighbors! Socialize with us now!  New features of the game now.  ADOPT A PET The Adoption Fair is in town!  Go check it out next to the area that's (still!) under construction!  PET PODS There's a Pet inside of each Pet Pod, you just need to wait until it's ready to open. Who knows what will come out?!"
-
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://raw.githubusercontent.com/omralmajsyn/Pk-XD-Explore-Universe-/main/New%20Project.png",
-      "state" : "vip",
-      "title" : "Intro",
-      "description" : "",
-      "written" : "PlayKids XD is an open-world social game in which you can create an avatar decorate a home, interact with other players and visit their houses Start a new game with PK XD and the first thing you ll do is create your custom character This game has a colorful almost otherworldly aesthetic and has loads of character creation options  Once you create a character you can start decorating your house which has three rooms and a hallway.  Many of the basic items for your house are free so you can create a great home without spending much of the in game currency That being said as you play you can earn money and buy furniture clothes accessories and other unique items to create a complete custom character and home which you can edit at any point during the game  But there's more than just your home in PK-XD there's an entire online world to explore  Visit other player's homes chat with them stroll around the city buy food go to parties and much much more. Much like games such as Hotel Habbo mtof PK-XD gameplay revolves around customization and interaction with other players."
-
-
+      "written" : "Choose your favorite ones and create your identity in the world of PlayKids XD! Explore a new concept of communication with lots of ways of expressing yourself! Take on challenges to earn coins and customize your avatar and home. - Decorate your home any way you like with many amazing items: Puff cloud, dance mat, lava lamp, wallpapers, fluffy rug, gamer chair, pictures, fantastic fireplace, heart -shaped balloons, kitchen items, bathroom items, and so much more! - Use your imagination to combine all items available and come up with creative avatars: be a zombie, a unicorn, a witch, or even a dragon! The options include monster slippers, futuristic boots, incredible wings, ninja swords, a cat mask, shark gloves, lobster gloves, golden hair, fun backpacks, incredible sunglasses, cool clothes, and much more."
+    
+    
     }
   ]
 
